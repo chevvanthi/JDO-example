@@ -1,0 +1,2 @@
+serviceClass: com.jdo.example.client.GreetingService
+path: B2A4FCC2A311B971A31849991F2E5E92.gwt.rpc
